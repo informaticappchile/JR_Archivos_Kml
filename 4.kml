@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>4.kmz</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00001">
+		<name>Piedra Colgada - Los Angeles</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Piedra Colgada - Los Angeles</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Sec_Geogra</td>
+
+<td>Piedra Colgada - Los Angeles</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sec_Hidrog</td>
+
+<td>Sector Hidrogeologico 6</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Admin</td>
+
+<td>Area de Administración 4, Piedra Colgada - Los Angeles</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle00</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-70.52642612154338,-27.28859035797366,0 -70.52784400684269,-27.2879179965397,0 -70.53303317993972,-27.31309457073654,0 -70.53951258205116,-27.31573152207984,0 -70.53773809018767,-27.3216774903929,0 -70.53534733458912,-27.32812925463908,0 -70.52852078527644,-27.33452405636614,0 -70.51093862010234,-27.341784570396,0 -70.50170262918873,-27.34210262451927,0 -70.49451806781927,-27.34926359591507,0 -70.48820474062967,-27.34512442738133,0 -70.47864246493782,-27.34794362257959,0 -70.47854078762701,-27.34648770138771,0 -70.47832311702238,-27.34529194886854,0 -70.47789743508623,-27.3439743738999,0 -70.49756910910132,-27.30746120074273,0 -70.49931910294313,-27.30689846928768,0 -70.50000887580626,-27.3059251271508,0 -70.50128839576944,-27.30458322096607,0 -70.50298762686367,-27.30429932550657,0 -70.50418535603127,-27.30290997640143,0 -70.50481677082949,-27.30162330971733,0 -70.50544393643136,-27.30002275594613,0 -70.50730371195765,-27.29895627926402,0 -70.50865720474045,-27.29776645189592,0 -70.50977730890803,-27.29664352882598,0 -70.51079386113003,-27.29585979581091,0 -70.51136980300156,-27.29447710711068,0 -70.51238468899356,-27.29357263847805,0 -70.51356334916655,-27.29278713202603,0 -70.5146045723688,-27.29183406553321,0 -70.51570179513479,-27.29102527612061,0 -70.5169911311574,-27.29043172931739,0 -70.51871876622693,-27.29026808363108,0 -70.52043981738991,-27.28962151901632,0 -70.52237539765211,-27.28885185685521,0 -70.52421340394514,-27.28885598056305,0 -70.52642612154338,-27.28859035797366,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

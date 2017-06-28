@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>6.kmz</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00003">
+		<name>San Pedro - Hda. Margarita</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>San Pedro - Hda. Margarita</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Sec_Geogra</td>
+
+<td>San Pedro - Hda. Margarita</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sec_Hidrog</td>
+
+<td>Sector Hidrogeologico 6</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Admin</td>
+
+<td>Area de Administración 6, San Pedro - Margarita</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle00</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-70.54386138545185,-27.24546482005609,0 -70.54742721069519,-27.24435458101087,0 -70.56929523752247,-27.24706721926992,0 -70.5814093244024,-27.25186362964303,0 -70.6003573063057,-27.25237488147628,0 -70.62277670994267,-27.25165193800521,0 -70.64134023958194,-27.25254784891778,0 -70.63362193708548,-27.28925030877166,0 -70.63291526556915,-27.30641346368912,0 -70.59994933478987,-27.36426984239498,0 -70.57250114087407,-27.38257265761582,0 -70.54605175544448,-27.39543010397146,0 -70.53169647226606,-27.36334785420144,0 -70.53067411060223,-27.34735810453621,0 -70.54921851312119,-27.34293160676393,0 -70.55968537962318,-27.31883830035819,0 -70.56702366550714,-27.30197198775644,0 -70.57156900103212,-27.28248803529566,0 -70.54866502011227,-27.27180508627507,0 -70.54877576656334,-27.27091411676251,0 -70.54936031565993,-27.26945069219137,0 -70.55029110878203,-27.26763629461525,0 -70.55190330042478,-27.2642492262665,0 -70.55396783395612,-27.26182387096294,0 -70.55353295063412,-27.25884028980563,0 -70.55153939822561,-27.25692872558413,0 -70.54916638488329,-27.25601746859237,0 -70.54708431416512,-27.25484336024944,0 -70.54521402719657,-27.25322190493842,0 -70.54373256408503,-27.25185855801859,0 -70.54357638515282,-27.25004378935822,0 -70.54361525094552,-27.24810967641866,0 -70.54431123518914,-27.24628550919602,0 -70.54386138545185,-27.24546482005609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
